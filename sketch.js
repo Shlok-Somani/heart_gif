@@ -45,7 +45,7 @@ function render(percent) {
 	textAlign(CENTER, CENTER);
     textSize(50);
 	textStyle(BOLD);
-    text('Name', x, y);
+    text('Radhika', x, y);
   }
 	else {
     //removing the points from the array
